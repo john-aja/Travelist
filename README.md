@@ -12,7 +12,7 @@ The Travel Agency Website is built using the following technologies:
 
 - **JavaScript**: JavaScript is responsible for implementing the lazy loading feature and enhancing the website's interactivity.
 
-## Features
+## Features 
 
 The Travel Agency Website includes the following features:
 
