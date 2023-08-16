@@ -1,6 +1,10 @@
-# Travel Agency Website
+# Travelist
+
+![travelist-mock](https://github.com/john-aja/Travelist/assets/95049418/b275922a-ca96-4381-9805-cc7c9608c8de)
 
 This project is a simple single page website developed using HTML, CSS, and JavaScript. The website showcases a travel agency company that provides services such as flight booking, restaurant booking, and trip organization.
+
+To open the website in a browser, please click on the following link : [https://tracktwin.netlify.app/](https://travelistapp.netlify.app/)
 
 ## Technologies Used
 
@@ -63,8 +67,6 @@ If you would like to contribute to the development of the Dice Game App, you can
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this application in accordance with the terms of the license.
 
 ## Contact
-
-For any inquiries or support regarding the Travelist website, please contact:
 
 **_John_**
 
