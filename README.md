@@ -1,10 +1,10 @@
 # Travelist
 
-![travelist-mock](https://github.com/john-aja/Travelist/assets/95049418/b275922a-ca96-4381-9805-cc7c9608c8de)
+![TRAVELIST](https://github.com/john-aja/Travelist/assets/95049418/f7067f2e-0b9d-44cc-981b-68243f5f1afd)
 
 This project is a simple single page website developed using HTML, CSS, and JavaScript. The website showcases a travel agency company that provides services such as flight booking, restaurant booking, and trip organization.
 
-To open the website in a browser, please click on the following link : [https://tracktwin.netlify.app/](https://travelistapp.netlify.app/)
+To open the website in a browser, please click on the following link : https://travelistapp.netlify.app/
 
 ## Technologies Used
 
